@@ -21,7 +21,7 @@
     background-color: red;
     color: white;
 }
-.btn-green{
+/* .btn-green{
     background-color: green;
     color: white;
     text-decoration: none;
@@ -29,7 +29,7 @@
 .btn-green a{
     text-decoration: none;
     color: white;
-}
+} */
 .container{
     text-align: center;
     border: 2px solid black;
